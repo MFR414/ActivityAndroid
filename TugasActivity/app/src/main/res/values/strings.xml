@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TEAMTRAVEL</string>
+    <string name="email">E-mail address</string>
+    <string name="pass">Password</string>
+    <string name="LogButtn">Login Me</string>
+    <string name="register">Don\'t Have Account?<a href="mailto:firmansyahm9@gmail.com?Subject=Lost%20Password" >Create it</a></string>
+    <string name="slogan1">Compare,</string>
+    <string name="slogan2">Travel, Save money</string>
+</resources>
